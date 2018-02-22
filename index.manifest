@@ -1,0 +1,9 @@
+CACHE MANIFEST
+#version 0.1
+
+CACHE: 
+	cache.css
+NETWORK:
+	*
+FALLBACK:
+/html5/ /404.html
